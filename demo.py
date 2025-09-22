@@ -1,3 +1,6 @@
 print("Hello, this is line 1")
 print("Hello, this is line 2")
 print("Hello, this is line 3")
+print("hello, this is line 4")
+print("hello, this is line 5")
+print("hello, this is line 6")
