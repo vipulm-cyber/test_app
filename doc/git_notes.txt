@@ -1,0 +1,5 @@
+My Git Understanding:
+- Git is version control
+- Tracks changes
+- Helps with branching & merging
+
